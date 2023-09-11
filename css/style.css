@@ -9528,16 +9528,20 @@ button.bg-dark:focus {
   color: #0BCEAF !important;
 }
 
+.text-secondary {
+  color: #09305a !important;
+}
+
 a.text-primary:hover, a.text-primary:focus {
   color: #078571 !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #09305a !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important;
+  color: #094980 !important;
 }
 
 .text-success {
